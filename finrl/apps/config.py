@@ -68,6 +68,40 @@ SAC_PARAMS = {
 ############## Stock Ticker Setup starts ##############
 SINGLE_TICKER = ["AAPL"]
 
+# Indonesian Stock Exchange 30 at April 2021
+IDX_30_TICKER = [
+	'ADRO.JK', 
+	'ANTM.JK', 
+	'ASII.JK', 
+	'BBCA.JK', 
+	'BBNI.JK', 
+	'BBRI.JK', 
+	'BBTN.JK', 
+	'BMRI.JK', 
+	'BTPS.JK', 
+	'CPIN.JK',
+	'EXCL.JK',
+	'GGRM.JK',
+	'HMSP.JK',
+	'ICBP.JK',
+	'INDF.JK',
+	'INKP.JK',
+	'INTP.JK',
+	'KLBF.JK',
+	'MDKA.JK',
+	'MNCN.JK',
+	'PGAS.JK',
+	'PTBA.JK',
+	'PWON.JK',
+	'SMGR.JK',
+	'TBIG.JK',
+	'TKIM.JK',
+	'TLKM.JK',
+	'TOWR.JK',
+	'UNTR.JK',
+	'UNVR.JK'
+]
+
 # self defined
 SRI_KEHATI_TICKER = [
 		"AALI.JK",
